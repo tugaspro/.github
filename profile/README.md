@@ -1,68 +1,89 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff&height=280&section=header&text=TUGAS%20PRO&fontSize=90&animation=fadeIn&fontAlignY=35&desc=Next-Gen%20Academic%20Management%20Platform&descAlignY=55&descSize=20" width="100%" />
+
+<br />
+
+### 🚀 Elevating Academic Productivity
+**Modern • Fast • Secure**
+
+[![Website](https://img.shields.io/badge/Live_Demo-tugas--pro.web.app-00d2ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tugas-pro.web.app/)
+[![Stars](https://img.shields.io/github/stars/tugaspro/tugas-pro-app?style=for-the-badge&color=ffd700&logo=github)](https://github.com/tugaspro/tugas-pro-app)
+[![Issues](https://img.shields.io/github/issues/tugaspro/tugas-pro-app?style=for-the-badge&color=ff4b2b&logo=github)](https://github.com/tugaspro/tugas-pro-app/issues)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Tugas-Pro&fontSize=70&animation=fadeIn" />
-</p>
-
-<p align="center">
-  <b>Platform Manajemen Tugas Akademik Modern, Cepat, dan Aman</b>
-</p>
-
-<p align="center">
-  <a href="https://tugas-pro.web.app/">🌐 Demo</a> •
-  <a href="#-fitur-utama">✨ Fitur</a> •
-  <a href="#-tech-stack">🛠 Tech Stack</a> •
-  <a href="https://github.com/tugaspro/tugas-pro-app/issues">🐞 Laporkan Bug</a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/stars/tugaspro/tugas-pro-app?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/forks/tugaspro/tugas-pro-app?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/license/tugaspro/tugas-pro-app?style=for-the-badge"/>
+  <a href="#-fitur-unggulan">Fitur Utama</a> •
+  <a href="#-arsitektur-teknologi">Tech Stack</a> •
+  <a href="#-kontribusi">Kontribusi</a>
 </p>
 
 ---
 
-## 📌 Tentang Proyek
+</div>
 
-**Tugas-Pro** adalah aplikasi manajemen tugas berbasis web yang dirancang untuk membantu mahasiswa mengelola tugas akademik secara **efisien, terstruktur, dan realtime**.
-
-Aplikasi ini menggabungkan **UI modern**, **arsitektur scalable**, dan **keamanan data** untuk memberikan pengalaman terbaik bagi pengguna.
-
----
-
-## ✨ Fitur Utama
-
-- 📋 Manajemen tugas terpusat  
-- ⚡ Performa cepat & responsif  
-- 🔐 Autentikasi & keamanan data  
-- 🌐 Progressive Web App (PWA)  
-- 📱 Optimal di desktop & mobile  
-- ☁️ Realtime database (Firebase)
+## 📌 Vision & Mission
+**Tugas-Pro** bukan sekadar aplikasi daftar tugas. Kami membangun ekosistem manajemen akademik berbasis **Progressive Web App (PWA)** yang memungkinkan mahasiswa mengelola beban kerja secara intuitif. Berfokus pada pengalaman pengguna yang *seamless* di berbagai perangkat.
 
 ---
 
-## 🛠 Tech Stack
+## ✨ Fitur Unggulan
+<table>
+  <tr>
+    <td width="50%">
+      <h4>⚡ Real-time Synchronization</h4>
+      Data tersinkronisasi instan ke seluruh perangkat menggunakan Firebase Cloud Firestore.
+    </td>
+    <td width="50%">
+      <h4>📱 Native-like Experience</h4>
+      Dukungan PWA penuh memungkinkan instalasi di Android/iOS untuk akses lebih cepat.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4>🔐 Enterprise Security</h4>
+      Autentikasi berlapis untuk menjamin keamanan data akademik pengguna.
+    </td>
+    <td width="50%">
+      <h4>🎨 Adaptive Design</h4>
+      Interface yang responsif secara cerdas beradaptasi dari layar desktop hingga mobile.
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠 Arsitektur Teknologi
+Kami menggunakan kombinasi teknologi modern untuk menjamin stabilitas dan kecepatan:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,firebase,nodejs&theme=dark"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,firebase,nodejs,vite&theme=dark" />
+  </a>
 </p>
 
-| Teknologi | Deskripsi |
-|---------|----------|
-| React | Library UI modern |
-| Tailwind CSS | Styling cepat & konsisten |
-| Firebase | Auth & realtime database |
-| Node.js | Backend & API |
+| Core | Technologies |
+| :--- | :--- |
+| **Frontend** | React (Vite), Tailwind CSS, Framer Motion |
+| **Backend** | Node.js, Firebase Auth & Firestore |
+| **Deployment** | Vercel / Firebase Hosting |
 
 ---
 
-## 🎨 Tampilan Aplikasi
+## 📊 Aktivitas Pengembangan
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tugaspro&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tugaspro&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+</p>
 
-> **Catatan:** Ganti gambar di bawah dengan screenshot asli aplikasi kamu agar terlihat lebih profesional.
+---
+
+## 🤝 Kontribusi
+Kami percaya pada kekuatan kolaborasi open-source. Jadilah bagian dari pengembangan Tugas-Pro!
 
 <p align="center">
-  <img src="https://via.placeholder.com/400x250?text=Dashboard+View" width="45%"/>
-  <img src="https://via.placeholder.com/400x250?text=Mobile+View" width="45%"/>
+  <img src="https://contrib.rocks/image?repo=tugaspro/tugas-pro-app" />
 </p>
 
----
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=tugaspro&color=00d2ff&style=flat-square&label=PROFILE+VIEWS" />
+</div>
